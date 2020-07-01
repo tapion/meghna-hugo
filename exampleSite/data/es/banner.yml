@@ -9,5 +9,5 @@ banner:
     el mercado. Nuestros productos se adaptan desde una pyme hasta una multinacional.
   button:
     enable: true
-    label: Explore Us
+    label: Ofrecemos...
     link: "#services"
