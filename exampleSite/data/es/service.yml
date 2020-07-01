@@ -7,10 +7,12 @@ service:
     icon: ti-world
     content: Sistema de monitoreo de sus trabajadores en campo, conozca si esta cumpliendo
       con los SLA pactados, optimice sus procesos y reduzca costos
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Consultoria
+    icon: ti-bar-chart-alt
+    content: Contamos con expertos en áreas como arquitectura y diseño de software,
+      construcción y entrenamiento de equipos ágiles, arquitectura empresarial y desarrollo
+      de software, sumado a nuestra experiencia, podemos ayudarte en los procesos
+      TI
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
