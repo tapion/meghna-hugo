@@ -13,18 +13,12 @@ service:
       construcción y entrenamiento de equipos ágiles, arquitectura empresarial y desarrollo
       de software, sumado a nuestra experiencia, podemos ayudarte en los procesos
       TI
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Apps Development
+  - name: Desarrollo de aplicaciones
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Cuéntenos su necesidad o proyecto, que nuestro equipo se encargara de
+      hacerla realidad en el mundo digital, una solución tecnológica capaz de crecer
+      al ritmo que usted lo desea, bajo políticas de confidencialidad que le darán
+      total tranquilidad.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
