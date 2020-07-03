@@ -18,8 +18,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: votre nom
-    email: Votre email
-    subject: Matière
-    message: Message
-    submit: Soumettre
+    name: Innoboky
+    email: puntadelanza86@gmail.com
+    subject: CONTACT FORM subject
+    message: CONTACT FORM Message
+    submit: CONTACT FORM submit
