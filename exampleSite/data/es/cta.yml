@@ -3,9 +3,9 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: Great Design & Incredible Features
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
-    odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
+  title: Innovación en su negocio
+  content: Permítanos conocer su necesidad o si está interesado en nuestros productos
+    le mostraremos un demo de éste, sabemos que le vera el beneficio inmediato.
   button:
     enable: true
     label: De el siguiente paso
