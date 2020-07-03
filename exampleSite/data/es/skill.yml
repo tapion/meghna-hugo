@@ -9,7 +9,7 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: Desarrollo y arquitectura de software
-    percent: 90%
+    percent: 95%
   - name: Arquitectura empresarial
     percent: 80%
   - name: Innovación
