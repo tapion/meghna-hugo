@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Nuestro equipo
   team_member:
   - name: Jersson Gomez
     image_webp: images/team/team-1.webp

@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: Nuestros servicios
   service_item:
   - name: BokyLog
     icon: ti-world

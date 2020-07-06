@@ -1,11 +1,9 @@
 ---
 skill:
   enable: true
-  title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title: Nuestras habilidades
+  subtitle: Innovación y tecnología
+  content: Somos profesionales con experiencia en el mundo de TI de mas de 10 años, nuestro equipo se ha focalizado en el conocimiento de herramientas y metodologías que impulsan el crecimiento de toda clase de compañía que quiera hacer una transformación digital.
   image: images/about/company-growth.webp
   skill_item:
   - name: Desarrollo y arquitectura de software
