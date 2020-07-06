@@ -1,0 +1,65 @@
+---
+team:
+  enable: true
+  title: Our Team
+  team_member:
+  - name: Jersson Gomez
+    image_webp: images/team/team-1.webp
+    image: images/team/team-1.jpg
+    designation: CO-Founder
+    content: Ingeniero adicto a las falta de muelas
+    social:
+    - icon: ti-facebook
+      link: https://www.facebook.com/jerson.s.urrego
+    - icon: ti-twitter-alt
+      link: "https://twitter.com/jersonGomez17"
+    - icon: ti-linkedin
+      link: "https://www.linkedin.com/in/jgomez17/"
+  - name: Mauricio Garcia
+    image_webp: images/team/team-2.webp
+    image: images/team/team-2.jpg
+    designation: Co-funder
+    content: Power ranger
+    social:
+    - icon: ti-facebook
+      link: https://www.facebook.com/ing.mgarcia
+    - icon: ti-twitter-alt
+      link: "https://twitter.com/maugargu"
+    - icon: ti-linkedin
+      link: "https://www.linkedin.com/in/maugargu/"
+  - name: Juan Gomez
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
+    designation: Co-funder
+    content: Patron de Tausa
+    social:
+    - icon: ti-facebook
+      link: https://www.facebook.com/juan.m.ferro.35
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+  - name: Juan Garcia
+    image_webp: images/team/team-4.webp
+    image: images/team/team-4.jpg
+    designation: Co-funder
+    content: Amante del sombrero rojo
+    social:
+    - icon: ti-facebook
+      link: "https://www.facebook.com/Arkazero"
+    - icon: ti-twitter-alt
+      link: "https://twitter.com/arkazero"
+    - icon: ti-linkedin
+      link: "https://www.linkedin.com/in/juan-andersson-garcia-pachon"
+  - name: Miguel Vargas
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
+    designation: Co-funder
+    content: Viajero en moto
+    social:
+    - icon: ti-facebook
+      link: "https://www.facebook.com/Puntadelanza"
+    - icon: ti-twitter-alt
+      link: "https://twitter.com/miguevargasc"
+    - icon: ti-linkedin
+      link: "https://www.linkedin.com/in/tapion/"

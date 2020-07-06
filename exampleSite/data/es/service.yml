@@ -1,0 +1,21 @@
+---
+service:
+  enable: true
+  title: Our Services
+  service_item:
+  - name: BokyLog
+    icon: ti-world
+    content: Sistema de monitoreo de sus trabajadores en campo, conozca si esta cumpliendo
+      con los SLA pactados, optimice sus procesos y reduzca costos
+  - name: Consultoria
+    icon: ti-bar-chart-alt
+    content: Contamos con expertos en áreas como arquitectura y diseño de software,
+      construcción y entrenamiento de equipos ágiles, arquitectura empresarial y desarrollo
+      de software, sumado a nuestra experiencia, podemos ayudarte en los procesos
+      TI
+  - name: Desarrollo de aplicaciones
+    icon: ti-package
+    content: Cuéntenos su necesidad o proyecto, que nuestro equipo se encargara de
+      hacerla realidad en el mundo digital, una solución tecnológica capaz de crecer
+      al ritmo que usted lo desea, bajo políticas de confidencialidad que le darán
+      total tranquilidad.

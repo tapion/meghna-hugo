@@ -1,0 +1,18 @@
+---
+about:
+  enable: true
+  title: About Us
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Somos innovadores
+    content: Tomamos las tecnologías actuales y disruptivas del mercado, mezcladas
+      con metodologías creativas para ofrecer la mejor una solución en el mercado.
+  - icon: ti-cup
+    title: Somos profesionales
+    content: Nuestro principal enfoque es la satisfacción del cliente, por ello ofrecemos
+      los servicios que mejor le beneficien en costo y alcance.
+  - icon: ti-heart-broken
+    title: Somos comprometidos
+    content: No somos un proveedor más, nos comprometemos en lo que hacemos, sabemos
+      que el éxito de su proyecto o compañía es también el nuestro, por ello trabajamos
+      como un socio.
